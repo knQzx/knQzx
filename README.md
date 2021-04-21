@@ -2,7 +2,7 @@
 - 🌱 I'm 14 years old
 - 💞️ I am studying at Yandex. lyceum 
 - 😝 I'm trying to learn Python and Javascript
-- 📫 You can contact me - https://t.me/newk1r
+- 📫 You can contact me - https://t.me/knQzx
 
 <!---
 knQzx/knQzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
