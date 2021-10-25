@@ -5,7 +5,7 @@
 - 📫 You can contact me - https://t.me/knQzx
 
 ## My completed courses and certificates
-###-  [HTML & CSS](https://stepik.org/certificate/54384ff68561a71626c91419f7cc695ab86eb90a.pdf "Необязательная подсказка")
+-  [HTML & CSS](https://stepik.org/certificate/54384ff68561a71626c91419f7cc695ab86eb90a.pdf)
 
 <!---
 knQzx/knQzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
