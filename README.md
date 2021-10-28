@@ -1,4 +1,4 @@
-![knqzx GitHub stats](https://github-readme-stats.vercel.app/api?username=menovikov&show_icons=true&theme=radical)
+![knqzx GitHub stats](https://github-readme-stats.vercel.app/api?username=knqzx&show_icons=true&theme=radical)
 
 - Hi, I'm Kirill 😁
 - 🌱 I'm 15 years old
