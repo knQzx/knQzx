@@ -3,7 +3,7 @@
 - Hi, I'm Kirill 😁
 - 🌱 I'm 15 years old
 - 💞️ I am studying at Yandex.lyceum 
-- 😝 I'm trying to learn Python, Django and Javascript
+- 😝 I'm trying to learn Django, Flask and Node
 - 📫 You can contact me - https://t.me/knQzx
 - 😅 I have website - https://novikovkirill.netlify.app/
 
