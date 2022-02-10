@@ -4,7 +4,7 @@
 - 😝 I'm trying to learn Django, Flask and Node
 - 📫 You can contact me - https://t.me/knQzx
 
-![knqzx GitHub stats](https://github-readme-stats.vercel.app/api?username=knqzx&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knQzx&layout=compact&theme=radical)
+![knqzx GitHub stats](https://github-readme-stats.vercel.app/api?username=knqzx&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knQzx&layout=compact&theme=radical)
 
 ### My completed courses and certificates
 -  [M220JS: MongoDB for JavaScript Developers](https://university.mongodb.com/course_completion/0ba4a930-bf77-4b36-ad07-84ff38db9f6e?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
