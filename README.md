@@ -1,8 +1,9 @@
 - Hi, I'm Kirill 😁
 - 🌱 I'm 15 years old
+- 🤟🏽 I have a website - http://novikovkirill.ru/
 - 💞️ I am studying at Yandex.Academy 
 - 😝 I'm trying to learn Django, Flask and Node
-- 📫 You can contact me - https://t.me/knQzx
+- 📫 You can contact me - [Telegram](https://t.me/knQzx)
 
 ![knqzx GitHub stats](https://github-readme-stats.vercel.app/api?username=knqzx&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knQzx&layout=compact&theme=radical)
 
