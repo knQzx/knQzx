@@ -6,7 +6,8 @@
 - 📫 You can contact me:<br>
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][tg]
 [<img align="left" alt="Site" src="https://img.shields.io/badge/novikovkirill.ru-%230077B5.svg?&style=for-the-badge&logo=site&logoColor=white" />][site]
-<br>
+<br><br>
+
 
 
 ![knqzx GitHub stats](https://github-readme-stats.vercel.app/api?username=knqzx&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knQzx&layout=compact&theme=radical)
