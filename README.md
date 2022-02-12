@@ -4,8 +4,8 @@
 - 💞️ I am studying at Yandex.Academy 
 - 😝 I'm trying to learn Django, Flask and Node
 - 📫 You can contact me:<br>
-[<img align="left" alt="Site" src="https://img.shields.io/badge/novikovkirill.ru-%230077B5.svg?&style=for-the-badge&logo=site&logoColor=white" />][site]
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][tg]
+[<img align="left" alt="Site" src="https://img.shields.io/badge/novikovkirill.ru-%230077B5.svg?&style=for-the-badge&logo=site&logoColor=white" />][site]
 <br>
 
 
@@ -25,4 +25,3 @@ You can click the Preview link to take a look at your changes.
 
 [tg]: https://t.me/knQzx
 [site]: http://novikovkirill.ru
-
