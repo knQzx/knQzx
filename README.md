@@ -1,5 +1,4 @@
 - Hi, I'm Kirill 😁
-- 🌱 I'm 15 years old
 - 🤟🏽 I have a website
 - 💞️ I am studying at Yandex.Academy 
 - 😝 I'm trying to learn Django, Flask and Node
