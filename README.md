@@ -6,8 +6,6 @@
 
 
 
-![knqzx GitHub stats](https://github-readme-stats.vercel.app/api?username=knqzx&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knQzx&layout=compact&theme=radical)
-
 ### My completed courses and certificates
 -  [M220JS: MongoDB for JavaScript Developers](https://university.mongodb.com/course_completion/0ba4a930-bf77-4b36-ad07-84ff38db9f6e?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 -  [Yandex.Academy 1 Course](https://lyceum.yandex.ru/certificate/check/?certNumber=210148024&lastName=%D0%9D%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2)
