@@ -4,10 +4,18 @@
 I am a **Software Engineer** and **DevOps** enthusiast with a passion for developing on **TON**. In my free time, I love exploring new technologies and building projects that challenge my skills.
 
 ### Languages & Technologies
-- 💻 **TypeScript** (TS)
-- 💻 **JavaScript** (JS)
+- 💻 **TypeScript** (TS)  
+  - ⚙️ Node.js
+  - ⚙️ telegraf
+- 🐍 **Python**  
+  - ⚙️ FastAPI
+  - ⚙️ Django
+  - ⚙️ AIogram
 - 💡 **Solidity**
-- 🐍 **Python**
+- 🗄️ **Databases**  
+  - ⚙️ MySQL
+  - ⚙️ PostgreSQL
+  - ⚙️ MongoDB
 
 ### Contact Information
 Feel free to reach out to me!  
