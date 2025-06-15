@@ -21,23 +21,33 @@
 <td align="center" width="50%">
 
 **🎯 ROLE & LOCATION**
-```yaml
-position: Software Engineer
-location: Europe 🌍
-focus: HFT Development
-status: Building the future
-```
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **Position** | Software Engineer |
+| **Location** | Europe 🌍 |
+| **Focus** | HFT Development |
+| **Status** | Building the future |
+
+</div>
 
 </td>
 <td align="center" width="50%">
 
 **🛠️ TECH STACK**
-```yaml
-blockchain: [Solidity, FunC]
-backend: [TypeScript, Rust]
-focus: [Web3, DeFi, MEV]
-current: HFT Systems
-```
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **Blockchain** | Solidity, FunC |
+| **Backend** | TypeScript, Rust |
+| **Focus** | Web3, DeFi, MEV |
+| **Current** | HFT Systems |
+
+</div>
 
 </td>
 </tr>
@@ -67,7 +77,7 @@ current: HFT Systems
 
 ### 🛠️ **Technologies**
 
-<img src="https://skillicons.dev/icons?i=solidity,typescript,rust,ethereum,nodejs,react,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=solidity,typescript,rust,nodejs,docker,linux,aws,gitlab,mysql,postgresql,terraform,ansible,prometheus,grafana,sentry&theme=dark" />
 
 <br><br>
 
