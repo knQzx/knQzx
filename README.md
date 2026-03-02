@@ -1,4 +1,4 @@
-# <div align="center">👋 Hey, I'm Novikov Kirill (**@knQzx**)</div>
+# <div align="center">👋 Hey</div>
 
 <div align="center">
   
@@ -90,31 +90,3 @@
 </div>
 
 <br>
-
-<div align="center">
-
-### 🤝 **Let's Connect**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-<br>
-
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:knzqxx@gmail.com)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/knQzx)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/knQzx)
-[![Medium](https://img.shields.io/badge/✍️_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@knQzx)
-[![VC.ru](https://img.shields.io/badge/📝_VC.ru-FF6B35?style=for-the-badge&logo=v&logoColor=white&labelColor=FF6B35)](https://vc.ru/u/4408440)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-🍌 **Chimpanzini bananini** 🍌
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
