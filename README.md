@@ -40,6 +40,7 @@ postgresql    ·  advanced
 docker / k8s  ·  intermediate
 typescript    ·  intermediate
 bash          ·  intermediate
+rust          ·  intermediate
 ```
 
 </td>
