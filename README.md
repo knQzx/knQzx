@@ -13,7 +13,6 @@
 
 ```
 > building backend systems, data pipelines, and open source tools
-> currently @ infineon technologies
 ```
 
 <br>
