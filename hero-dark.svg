@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="200" viewBox="0 0 830 200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>.a{animation:g .7s cubic-bezier(.2,.7,.2,1) backwards}@keyframes g{from{opacity:0;transform:translateX(-8px)}}@media (prefers-reduced-motion:reduce){.a{animation:none}}</style>
+<rect width="830" height="200" rx="6" fill="#0d1117"/>
+<text x="32" y="78" fill="#e6edf3" font-size="64" font-weight="700" letter-spacing="-2">75</text>
+<text x="126" y="52" fill="#e6edf3" font-size="18" font-weight="600">pull requests merged upstream</text>
+<text x="126" y="76" fill="#9198a1" font-size="15">since march 2026, grouped by what was wrong</text>
+<rect class="a" style="animation-delay:0ms" x="32.0" y="108" width="110.0" height="26" rx="5" fill="#f2cc60"/>
+<rect class="a" style="animation-delay:90ms" x="146.0" y="108" width="130.0" height="26" rx="5" fill="#f85149"/>
+<rect class="a" style="animation-delay:180ms" x="280.0" y="108" width="120.0" height="26" rx="5" fill="#a371f7"/>
+<rect class="a" style="animation-delay:270ms" x="404.0" y="108" width="240.0" height="26" rx="5" fill="#a5d6ff"/>
+<rect class="a" style="animation-delay:360ms" x="648.0" y="108" width="150.0" height="26" rx="5" fill="#6e7681"/>
+<rect x="32" y="161" width="12" height="12" rx="3" fill="#f2cc60"/>
+<text x="52" y="172" fill="#9198a1" font-size="14">crashes 11</text>
+<rect x="154.5" y="161" width="12" height="12" rx="3" fill="#f85149"/>
+<text x="174.5" y="172" fill="#9198a1" font-size="14">access &amp; secrets 13</text>
+<rect x="353.04999999999995" y="161" width="12" height="12" rx="3" fill="#a371f7"/>
+<text x="373.04999999999995" y="172" fill="#9198a1" font-size="14">reliability 12</text>
+<rect x="509.3499999999999" y="161" width="12" height="12" rx="3" fill="#a5d6ff"/>
+<text x="529.3499999999999" y="172" fill="#9198a1" font-size="14">wrong data 24</text>
+<rect x="657.1999999999999" y="161" width="12" height="12" rx="3" fill="#6e7681"/>
+<text x="677.1999999999999" y="172" fill="#9198a1" font-size="14">tooling 15</text>
+</svg>
